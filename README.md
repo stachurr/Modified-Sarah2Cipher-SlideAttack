@@ -10,4 +10,6 @@
 #
 
 ### Command Line Output Preview
-  <img src="./preview.jpg">
+ <img src="./preview.jpg">
+ 
+ Periods (`.`) represent unsolved sbox mappings.
